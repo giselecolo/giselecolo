@@ -1,7 +1,7 @@
 <h1 align="center">Hola! mi nombre es Gisele</h1>
-<h3 align="center">Estudiante de Desarrollo web en coder house, aprendiendo.</h3>
+<h3 align="center">Primeros pasos en maquetación web</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: giselecolo@gmail.com</h3>
 <p align="left">
 </p>
 
